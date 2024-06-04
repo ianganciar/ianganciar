@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I am a Backend Developer, specialized in the .Net ecosystem, passionate about technology and programming.<br><br>💡 I enjoy exploring new technologies and using them to build interesting things.<br><br>🎓 Currently pursuing a degree in Systems Analysis and Development at Instituto INFNET.<br><br>🌱 I am always looking to deepen my knowledge in areas such as software architecture, performance optimization, and security.<br><br>✍️ In my personal projects, I like to work on challenges that allow me to expand my experience and explore new tools and techniques within the .NET ecosystem.</p>
+<p align="left">I am a Backend Developer, specialized in the .Net platform, passionate about technology and programming.<br><br>💡 I enjoy exploring new technologies and using them to build interesting things.<br><br>🎓 Currently pursuing a degree in Systems Analysis and Development at Instituto INFNET.<br><br>🌱 I am always looking to deepen my knowledge in areas such as software architecture, performance optimization, and security.<br><br>✍️ In my personal projects, I like to work on challenges that allow me to expand my experience and explore new tools and techniques within the .NET platform </p>
 
 ###
 
