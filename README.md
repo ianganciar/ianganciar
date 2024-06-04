@@ -1,8 +1,8 @@
-<h1 align="left">Hi there, I'm Ian Ganciar 👋</h1>
+<h1 align="left">👋 Hi there, I'm Ian Ganciar</h1>
 
 ###
 
-<h2 align="left">About me 🚀</h2>
+<h3 align="left">About me 🚀</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">🛠️ Technologies & Tools</h2>
+<h3 align="left">🛠️ Technologies & Tools</h3>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<h2 align="left">📫 How to reach me</h2>
+<h3 align="left">📫 How to reach me</h3>
 
 ###
 
